@@ -1,0 +1,12 @@
+name=input("Enter your name: ")
+grade=input("Enter your grade: ")
+age=int(input("Enter your age: "))
+email=input("Enter your email: ")
+ph_no=input("Enter your ph_no: ")
+
+print("Student identity card")
+print("Name:",name)
+print("Grade:",grade)
+print("age:",age)
+print("email:",email)
+print("phone no:",ph_no)
