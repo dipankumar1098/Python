@@ -31,5 +31,9 @@ else:
     print("fail") """
 
 #short hand if
-marks=92
-if marks>=90:print("You are eligible")
+"""marks=92
+if marks>=90:print("You are eligible")"""
+
+#short hand ifelse
+""" mark=90
+print("you are eligible") if mark>=90 else print("you are not eligible") """
