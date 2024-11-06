@@ -16,7 +16,7 @@ else:
      print("thank you") """
      
 #if elif else statement
-marks=int(input("Enter your mark:"))
+""" marks=int(input("Enter your mark:"))
 
 if marks>=90:
     print("Grade o")
@@ -28,4 +28,8 @@ elif marks>=60 and marks<=700:
     print("grade B")
     
 else:
-    print("fail")
+    print("fail") """
+
+#short hand if
+marks=92
+if marks>=90:print("You are eligible")
